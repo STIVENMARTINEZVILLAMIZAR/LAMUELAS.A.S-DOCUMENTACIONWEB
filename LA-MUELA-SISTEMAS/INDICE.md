@@ -1,0 +1,49 @@
+# Índice general
+
+Mapa de navegación del repositorio documental de Sistemas — LA MUELA S.A.S.
+
+- [Inicio](README.md)
+- [Convenciones](00-ADMINISTRACION-DOCUMENTAL/02-CONVENCIONES/CONVENCIONES.md)
+- [Guía de evidencias](00-ADMINISTRACION-DOCUMENTAL/01-GUIAS/GUIA-ORGANIZACION-DE-EVIDENCIAS.md)
+- [Plantillas](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/)
+
+## Administración
+
+- [00 Administración documental](00-ADMINISTRACION-DOCUMENTAL/README.md)
+  - [Guía de organización de evidencias](00-ADMINISTRACION-DOCUMENTAL/01-GUIAS/GUIA-ORGANIZACION-DE-EVIDENCIAS.md)
+  - [Convenciones](00-ADMINISTRACION-DOCUMENTAL/02-CONVENCIONES/CONVENCIONES.md)
+  - [Plantilla de actividad](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-ACTIVIDAD.md)
+  - [Plantilla de incidencia](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-INCIDENCIA.md)
+  - [Plantilla de auditoría](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-AUDITORIA.md)
+  - [Plantilla de procedimiento](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-PROCEDIMIENTO.md)
+  - [Plantilla de informe](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-INFORME.md)
+  - [Historial de cambios](00-ADMINISTRACION-DOCUMENTAL/05-HISTORIAL-DE-CAMBIOS/HISTORIAL.md)
+
+## Operación diaria
+
+- [01 Bitácora de actividades](01-BITACORA-DE-ACTIVIDADES/README.md)
+- [02 WordPress y página web](02-WORDPRESS-Y-PAGINA-WEB/README.md)
+- [03 Infraestructura TI](03-INFRAESTRUCTURA-TI/README.md)
+- [04 Software y sistemas](04-SOFTWARE-Y-SISTEMAS/README.md)
+- [05 Soporte técnico](05-SOPORTE-TECNICO/README.md)
+
+## Gestión
+
+- [06 Proyectos](06-PROYECTOS/README.md)
+- [07 Incidencias y problemas](07-INCIDENCIAS-Y-PROBLEMAS/README.md)
+- [08 Evidencias y adjuntos](08-EVIDENCIAS-Y-ADJUNTOS/README.md)
+- [09 Informes y reportes](09-INFORMES-Y-REPORTES/README.md)
+- [10 Pendientes y seguimiento](10-PENDIENTES-Y-SEGUIMIENTO/README.md)
+- [11 Reuniones y comunicaciones](11-REUNIONES-Y-COMUNICACIONES/README.md)
+- [12 Procedimientos y manuales](12-PROCEDIMIENTOS-Y-MANUALES/README.md)
+- [99 Archivo histórico](99-ARCHIVO-HISTORICO/README.md)
+
+## Plantillas reutilizables
+
+| Plantilla | Uso |
+| --- | --- |
+| [Actividad](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-ACTIVIDAD.md) | Registro de una intervención o tarea |
+| [Incidencia](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-INCIDENCIA.md) | Problema, diagnóstico y seguimiento |
+| [Auditoría](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-AUDITORIA.md) | Hallazgos, evidencias y recomendaciones |
+| [Procedimiento](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-PROCEDIMIENTO.md) | Pasos reutilizables del área |
+| [Informe](00-ADMINISTRACION-DOCUMENTAL/03-PLANTILLAS-MARKDOWN/PLANTILLA-INFORME.md) | Reporte diario, semanal, mensual o gerencial |
